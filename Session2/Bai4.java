@@ -24,7 +24,7 @@ public class Bai4 {
 
 
         List<User> users = new ArrayList<>();
-        users.add(new User("chien"));
+        users.add(new User("mua"));
         users.add(new User("an"));
         users.add(new User("binh"));
 
