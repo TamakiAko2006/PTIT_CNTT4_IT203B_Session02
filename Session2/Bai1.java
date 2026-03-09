@@ -28,7 +28,7 @@ class User {
 public class Bai1 {
     public static void main(String[] args) {
 
-        User u = new User("chien", "ADMIN");
+        User u = new User("Ame", "ADMIN");
 
         // 1. Predicate: kiểm tra admin
         Predicate<User> isAdmin = user -> user.getRole().equals("ADMIN");
