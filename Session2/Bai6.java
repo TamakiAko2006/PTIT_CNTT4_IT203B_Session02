@@ -4,7 +4,7 @@ public class Bai6 {
 
     public static void main(String[] args) {
 
-        User user = new User("chien");
+        User user = new User("mua");
 
         UserProcessor processor = UserUtils::convertToUpperCase;
 
